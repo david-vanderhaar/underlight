@@ -1,0 +1,9 @@
+canvas {
+  display: block;
+}
+
+.generate {
+  max-width: 600px;
+  height: auto;
+  width: 100%;
+}
